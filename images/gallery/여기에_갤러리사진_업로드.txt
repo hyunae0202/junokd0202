@@ -1,0 +1,1 @@
+예: salon-02.jpg 파일을 이 폴더에 올리고 관리자에서 images/gallery/salon-02.jpg 로 입력하세요.
